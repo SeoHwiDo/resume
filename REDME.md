@@ -16,7 +16,7 @@
 + 깃허브에 이력서 만들기
 
 추천 사이트  
-[한림대학교(www.hallym.ac.kr)
+[한림대학교](www.hallym.ac.kr)
 
 <a href= http://www.hallym.ac.kr/>한림대학교</a>  
 주소목록 별도로 관리 가능  
