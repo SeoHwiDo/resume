@@ -18,3 +18,4 @@
 추천 사이트  
 [한림대학교](www.hallym.ac.kr)
 
+<a href= http://www.hallym.ac.kr/>한림대학교</a>
