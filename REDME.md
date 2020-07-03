@@ -19,8 +19,13 @@
 [한림대학교](www.hallym.ac.kr)
 
 <a href= http://www.hallym.ac.kr/>한림대학교</a>  
+
 주소목록 별도로 관리 가능  
 
 [hallym]:http://www.hallym.ac.kr
 
 [한림][hallym]
+
+*이탤릭체*
+**볼드체**
+~~취소선~~
